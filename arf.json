@@ -381,15 +381,27 @@
       "children": [
         {
           "id": "1094",
-          "name": "AutomatingOSINT.com",
+          "name": "smali",
           "type": "url",
-          "url": "http://register.automatingosint.com/"
+          "url": "https://github.com/JesusFreke/smali"
+        },
+		{
+          "id": "1094",
+          "name": "CuckooDroid",
+          "type": "url",
+          "url": "https://github.com/idanr1986/cuckoo-droid"
+        },
+		{
+          "id": "1094",
+          "name": "SPARTA",
+          "type": "url",
+          "url": "https://www.cs.washington.edu/sparta"
         },
         {
           "id": "1095",
-          "name": "Open Source Intelligence Techniques",
+          "name": "ApkAnalyser",
           "type": "url",
-          "url": "https://inteltechniques.com/"
+          "url": "https://github.com/sonyxperiadev/ApkAnalyser"
         }
       ],
       "id": "1093",
