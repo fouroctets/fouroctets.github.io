@@ -484,6 +484,45 @@
           "id": "69021",
           "name": "File Carving Tools",
           "type": "folder"
+        },
+
+
+        {
+          "children": [
+            {
+              "id": "5902",
+              "name": "VolUtility",
+              "type": "url",
+              "url": "https://github.com/kevthehermit/VolUtility"
+            },
+            {
+              "id": "5903",
+              "name": "volatility",
+              "type": "url",
+              "url": "https://github.com/volatilityfoundation/volatility"
+            },
+            {
+              "id": "5904",
+              "name": "evolve",
+              "type": "url",
+              "url": "https://github.com/JamesHabben/evolve"
+            },
+            {
+              "id": "5905",
+              "name": "DAMM",
+              "type": "url",
+              "url": "https://github.com/504ensicsLabs/DAMM"
+            },
+            {
+              "id": "5906",
+              "name": "blacklight",
+              "type": "url",
+              "url": "https://www.blackbagtech.com/blacklight.html"
+            }
+          ],
+          "id": "5907",
+          "name": "Memory Forensics",
+          "type": "folder"
         }
       
   ],
