@@ -447,8 +447,6 @@
       "type": "folder"
     },
 
-
-
     {
       "children": [
         {
@@ -482,8 +480,7 @@
               "name": "scalpel",
               "type": "url",
               "url": "https://github.com/sleuthkit/scalpel"
-            }
-                        
+            }                    
           ],
           "id": "75001",
           "name": "File Carving Tools",
