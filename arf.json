@@ -440,12 +440,12 @@
           "id": "16",
           "name": "Static Analysis Tools",
           "type": "folder"
-        },       
+        }       
       ],
       "id": "15",
       "name": "Android Tools",
       "type": "folder"
-    },    
+    }    
   ],
   "id": "2",
   "name": "Malware Analysis Tools",
