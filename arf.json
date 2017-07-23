@@ -52,16 +52,63 @@
               "type": "url",
               "url": "http://checkusernames.com/"
             },
-            
+            {
+              "id": "1821",
+              "name": "Gaddr.me",
+              "type": "url",
+              "url": "https://gaddr.me/"
+            }
           ],
           "id": "4",
           "name": "Username Search Engines",
           "type": "folder"
         },
-     
+        {
+          "children": [
+            {
+              "id": "15",
+              "name": "Amazon Usernames (M)",
+              "type": "url",
+              "url": "https://www.google.com/search?q=site:amazon.com+%3Cusername%3E"
+            },
+            {
+              "id": "16",
+              "name": "Amazon Wishlists",
+              "type": "url",
+              "url": "https://www.amazon.com/gp/registry/search.html/?ie=UTF8&type=wishlist"
+            },
+            {
+              "id": "17",
+              "name": "Github User (M)",
+              "type": "url",
+              "url": "https://api.github.com/users/%3Cusername%3E/events/public"
+            },
+            {
+              "id": "18",
+              "name": "WhatsMyName",
+              "type": "url",
+              "url": "https://github.com/WebBreacher/WhatsMyName"
+            },
+            {
+              "id": "19",
+              "name": "Keybase",
+              "type": "url",
+              "url": "https://keybase.io/"
+            },
+            {
+              "id": "1757",
+              "name": "MIT PGP Key Server",
+              "type": "url",
+              "url": "http://pgp.mit.edu/"
+            }
+          ],
+          "id": "14",
+          "name": "Specific Sites",
+          "type": "folder"
+        }
       ],
       "id": "3",
-      "name": "Test",
+      "name": "Username",
       "type": "folder"
     },
     {
@@ -7635,6 +7682,25 @@
       ],
       "id": "1074",
       "name": "Documentation",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "id": "1094",
+          "name": "AutomatingOSINT.com",
+          "type": "url",
+          "url": "http://register.automatingosint.com/"
+        },
+        {
+          "id": "1095",
+          "name": "Open Source Intelligence Techniques",
+          "type": "url",
+          "url": "https://inteltechniques.com/"
+        }
+      ],
+      "id": "1093",
+      "name": "Training",
       "type": "folder"
     }
   ],
