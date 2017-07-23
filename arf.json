@@ -52,12 +52,7 @@
               "type": "url",
               "url": "http://checkusernames.com/"
             },
-            {
-              "id": "1821",
-              "name": "Gaddr.me",
-              "type": "url",
-              "url": "https://gaddr.me/"
-            }
+            
           ],
           "id": "4",
           "name": "Username Search Engines",
