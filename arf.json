@@ -447,8 +447,7 @@
       "type": "folder"
     },
 
-    {
-      "children": [
+    
         {
           "children": [
             {
@@ -462,7 +461,7 @@
               "name": "EVTXtract",
               "type": "url",
               "url": "https://github.com/williballenthin/EVTXtract"
-            }
+            },
             {
               "id": "75004",
               "name": "foremost",
@@ -480,15 +479,16 @@
               "name": "scalpel",
               "type": "url",
               "url": "https://github.com/sleuthkit/scalpel"
-            }                    
+            }
           ],
-          "id": "75001",
-          "name": "File Carving Tools",
+          "id": "69021",
+          "name": "Static Analysis Tools",
           "type": "folder"
         }
-
+      
   ],
   "id": "82001",
   "name": "Malware Analysis Tools",
   "type": "folder"
+
 }
