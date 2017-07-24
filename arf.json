@@ -633,7 +633,61 @@
           "id": "60513",
           "name": "Places to Get Malware Samples",
           "type": "folder"
-        }
+        },
+
+
+
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "id": "",
+                  "name": "Krakatau (Java Decompiler)",
+                  "type": "url",
+                  "url": "https://github.com/Storyyeller/Krakatau"
+                },
+                {
+                  "id": "",
+                  "name": " Java IDX Parses Java IDX cache files.",
+                  "type": "url",
+                  "url": "https://github.com/Rurik/Java_IDX_Parser/"
+                },
+                {
+                  "id": "",
+                  "name": "Java Decompiler",
+                  "type": "url",
+                  "url": "http://jd.benow.ca/"
+                }
+              ],
+              "id": "",
+              "name": "Java",
+              "type": "folder"
+            },
+            {
+              "children": [
+                {
+                  "id": "",
+                  "name": "de4dot",
+                  "type": "url",
+                  "url": "https://github.com/0xd4d/de4dot"
+                },
+                {
+                  "id": "",
+                  "name": "dnSpy",
+                  "type": "url",
+                  "url": "https://github.com/0xd4d/dnSpy"
+                }
+              ],
+              "id": "",
+              "name": ".NET",
+              "type": "folder"
+            }
+          ],
+          "id": "",
+          "name": "Programming Language Specific",
+          "type": "folder"
+        },
     
       
   ],
