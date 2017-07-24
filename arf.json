@@ -256,12 +256,6 @@
               "url": "https://www.malwareviz.com/"
             },
             {
-              "id": "40001",
-              "name": "Anubis",
-              "type": "url",
-              "url": "http://anubis.iseclab.org/"
-            },
-            {
               "id": "41001",
               "name": "Ether",
               "type": "url",
@@ -593,9 +587,9 @@
             },
             {
               "id": "50412",
-              "name": "Binary Ninja (Payed 99$USD)",
+              "name": "x64dbg",
               "type": "url",
-              "url": "https://binary.ninja/"
+              "url": "http://x64dbg.com/#start"
             }
           ],
           "id": "60512",
