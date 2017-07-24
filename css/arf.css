@@ -101,8 +101,9 @@ a:hover {
 
 .site-footer {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2em;
     overflow: hidden;
     background: #333;
 }
