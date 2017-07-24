@@ -592,7 +592,7 @@
               "url": "https://www.winitor.com/"
             },
             {
-              "id": "50411",
+              "id": "50412",
               "name": "Binary Ninja (Payed 99$USD)",
               "type": "url",
               "url": "https://binary.ninja/"
@@ -601,7 +601,46 @@
           "id": "60512",
           "name": "Essential Tools For Static Malware Analysis",
           "type": "folder"
+        },
+    
+     {
+          "children": [
+            {
+              "id": "10013",
+              "name": "Tekdefense",
+              "type": "url",
+              "url": "http://www.tekdefense.com/downloads/malware-samples/"
+            },
+            {
+              "id": "20113",
+              "name": "OpenMalware (You need a hash to find malware)",
+              "type": "url",
+              "url": "http://openmalware.org/"
+            },
+            {
+              "id": "30213",
+              "name": "Assortment of Random Samples",
+              "type": "url",
+              "url": "http://dasmalwerk.eu/"
+            },
+            {
+              "id": "40313",
+              "name": "The Zoo (Best option for begginers)",
+              "type": "url",
+              "url": "http://thezoo.morirt.com/"
+            },
+            {
+              "id": "50413",
+              "name": "Android Malware Samples",
+              "type": "url",
+              "url": "https://github.com/ashishb/android-malware"
+            }
+          ],
+          "id": "60513",
+          "name": "Places to Get Malware Samples",
+          "type": "folder"
         }
+    
       
   ],
   "id": "82001",
