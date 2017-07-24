@@ -98,7 +98,8 @@ a:hover {
     color: #1c1c1c;
     text-decoration: underline;
 }
-footer {
+
+.site-footer {
     list-style-type: none;
     margin: 0;
     padding: 0;
