@@ -562,6 +562,45 @@
           "id": "60511",
           "name": "Online Scanners",
           "type": "folder"
+        },
+    
+    
+    {
+          "children": [
+            {
+              "id": "10012",
+              "name": "sysinternals",
+              "type": "url",
+              "url": "https://technet.microsoft.com/en-us/sysinternals/bb842062.aspx"
+            },
+            {
+              "id": "20112",
+              "name": "Process Hacker",
+              "type": "url",
+              "url": "http://processhacker.sourceforge.net/"
+            },
+            {
+              "id": "30212",
+              "name": "Hexinator (Hex Editor)",
+              "type": "url",
+              "url": "https://hexinator.com/"
+            },
+            {
+              "id": "40312",
+              "name": "PEstudio",
+              "type": "url",
+              "url": "https://www.winitor.com/"
+            },
+            {
+              "id": "50411",
+              "name": "Binary Ninja (Payed 99$USD)",
+              "type": "url",
+              "url": "https://binary.ninja/"
+            }
+          ],
+          "id": "60511",
+          "name": "Essential Tools For Static Malware Analysis",
+          "type": "folder"
         }
       
   ],
