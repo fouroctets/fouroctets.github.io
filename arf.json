@@ -524,6 +524,45 @@
           "name": "Memory Forensics",
           "type": "folder"
         }
+
+
+        {
+          "children": [
+            {
+              "id": "10011",
+              "name": "virustotal",
+              "type": "url",
+              "url": "https://www.virustotal.com/"
+            },
+            {
+              "id": "20111",
+              "name": "hybrid-analysis",
+              "type": "url",
+              "url": "https://www.hybrid-analysis.com/"
+            },
+            {
+              "id": "30211",
+              "name": "url-analyzer",
+              "type": "url",
+              "url": "https://www.url-analyzer.net/"
+            },
+            {
+              "id": "40311",
+              "name": "malwr",
+              "type": "url",
+              "url": "https://malwr.com/"
+            },
+            {
+              "id": "50411",
+              "name": "pdfexaminer",
+              "type": "url",
+              "url": "http://www.pdfexaminer.com/"
+            }
+          ],
+          "id": "60511",
+          "name": "Online Scanners",
+          "type": "folder"
+        }
       
   ],
   "id": "82001",
