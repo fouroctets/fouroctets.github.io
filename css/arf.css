@@ -27,24 +27,6 @@ html {
     font-size: 12px;
     color: #fff;
 }
-.node {
-    cursor: pointer;
-}
-.node circle {
-    cursor: pointer;
-    fill: #ffaa00;
-    stroke: steelblue;
-    stroke-width: 1.5px;
-}
-.node text {
-    font-size: 12px;
-    fill: rgb(0, 0, 0);
-}
-path.link {
-    fill: none;
-    stroke: #ccc;
-    stroke-width: 1px;
-}
 ul {
     list-style-type: none;
     margin: 0;
@@ -66,25 +48,6 @@ li a {
 
 li a:hover {
     background-color: #111;
-}
-h1 {
-    color: #ffffff;
-    font-family: 'Raleway', sans-serif;
-    font-size: 62px;
-    font-weight: 800;
-    line-height: 72px;
-    margin: 0 0 24px;
-    text-align: center;
-    text-transform: uppercase;
-}
-h2 {
-    color: #ffffff;
-    font-family: 'Raleway', sans-serif;
-    font-size: 30px;
-    font-weight: 800;
-    line-height: 36px;
-    margin: 0 0 24px;
-    text-align: center;
 }
 p {
     color: #f8f8f8;
