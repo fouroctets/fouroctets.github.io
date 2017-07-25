@@ -502,7 +502,7 @@
             {
                "id":"75005",
                "name":"EVTXtract",
-               "type":"url",
+                 "type":"url",
                "url":"https://github.com/williballenthin/EVTXtract"
             },
             {
@@ -633,6 +633,12 @@
                "name":"x64dbg",
                "type":"url",
                "url":"http://x64dbg.com/#start"
+            },
+            {
+               "id":"504123",
+               "name":"PE file Explorer",
+               "type":"url",
+               "url":"https://mzrst.com/#top"
             }
          ],
          "id":"60512",
