@@ -8,7 +8,7 @@ html {
     min-height: 100%;
 }
 #body {
-    margin: 1em;
+    margin: 0;
     position: relative;
 }
 #header {
@@ -84,7 +84,7 @@ a:hover {
      stroke-width: 1.5px;
  }
  .node text {
-     font-size: 14px;
+     font-size: 12px;
      font-weight: bold;
      fill: rgb(0, 0, 0);
  }
