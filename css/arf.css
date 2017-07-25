@@ -104,6 +104,7 @@ a:hover {
 }
 
 .footer {
+      background-color: #333;
       list-style-type: none;
       position: bottom;
       margin: 0;
