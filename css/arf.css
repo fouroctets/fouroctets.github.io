@@ -1,51 +1,31 @@
 body {
-  background-color: #ffffff;
-  font-size: 14px;
-  font-family: "Helvetica Neue", Helvetica;
+    background-color: #ffffff;
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica;
 }
-
+html {
+    position: relative;
+    min-height: 100%;
+}
 #body {
-  margin: 0 auto;
-  position: relative;
+    margin: 0;
+    position: relative;
 }
-
 #header {
-  font-size: 40px;
-  font-weight: bold;
-  top: 20px;
-  text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    top: 20px;
+    text-align: center;
 }
-
 .legend {
-  position: absolute;
-  top: 0px;
-  right: 0;
-  width: 330px;
-  font-size: 11px;
-  color: #000;
-}
-
-.node {
-  cursor: pointer;
-}
-
-.node circle {
-  cursor: pointer;
-  fill: #ffaa00;;
-  stroke: steelblue;
-  stroke-width: 1.5px;
-}
-
-.node text {
-  font-size: 12px;
-  fill: rgb(0, 0, 0);
-}
-
-path.link {
-  fill: none;
-  stroke: #ccc;
-  stroke-width: 1px;
-}
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    right: 0;
+    top: 0px;
+    width: 330px;
+    font-size: 12px;
+    color: #fff;
 }
 ul {
     list-style-type: none;
@@ -94,4 +74,22 @@ a:hover {
       overflow: hidden;
       text-align:center;
 }
+.node {
+     cursor: pointer;
+ }
+ .node circle {
+     cursor: pointer;
+     fill: #ffaa00;
+     stroke: steelblue;
+     stroke-width: 1.5px;
+ }
+ .node text {
+     font-size: 12px;
+     fill: rgb(0, 0, 0);
+ }
+ path.link {
+     fill: none;
+     stroke: #ccc;
+     stroke-width: 1px;
+ }
 
