@@ -1,13 +1,12 @@
-var margin = {top: 20, right: 120, bottom: 20, left: 120},
-    width = 960 - margin.right - margin.left,
-    height = 800 - margin.top - margin.bottom;
+  var margin = [20, 250, 20, 200],
+      width = 1200 - margin[5] - margin[5],
+      height = 700 - margin[0] - margin[2],
+      i = 0,
+      duration = 1250,
+      root;
 
-var i = 0,
-    duration = 750,
-    root;
-
-var tree = d3.layout.tree()
-    .size([height, width]);
+  var tree = d3.layout.tree()
+      .size([height, width]);
 
 
 var diagonal = d3.svg.diagonal()
