@@ -1,13 +1,12 @@
-  var margin = [20, 250, 20, 200],
-      width = 1200 - margin[5] - margin[5],
-      height = 700 - margin[0] - margin[2],
-      i = 0,
-      duration = 1250,
-      root;
+var margin = [20, 120, 20, 140],
+    width = 1280 - margin[1] - margin[3],
+    height = 800 - margin[0] - margin[2],
+    i = 0,
+    duration = 1250,
+    root;
 
-  var tree = d3.layout.tree()
-      .size([height, width]);
-
+var tree = d3.layout.tree()
+    .size([height, width]);
 
 var diagonal = d3.svg.diagonal()
     .projection(function(d) { return [d.y, d.x]; });
@@ -62,7 +61,7 @@ function update(source) {
 
   nodeEnter.append("svg:circle")
       .attr("r", 1e-6)
-      .style("fill", function(d) { return d._children ? "orange" : "#fff"; });
+      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
 
   nodeEnter.append('a')
       .attr("target", "_blank")
@@ -87,7 +86,7 @@ function update(source) {
 
   nodeUpdate.select("circle")
       .attr("r", 6)
-      .style("fill", function(d) { return d._children ? "orange" : "#fff"; });
+      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
 
   nodeUpdate.select("text")
       .style("fill-opacity", 1);
