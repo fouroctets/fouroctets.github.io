@@ -74,3 +74,21 @@ a:hover {
       overflow: hidden;
       text-align:center;
 }
+.node {
+     cursor: pointer;
+ }
+ .node circle {
+     cursor: pointer;
+     fill: #ffaa00;
+     stroke: steelblue;
+     stroke-width: 1.5px;
+ }
+ .node text {
+     font-size: 12px;
+     fill: rgb(0, 0, 0);
+ }
+ path.link {
+     fill: none;
+     stroke: #ccc;
+     stroke-width: 1px;
+ }
