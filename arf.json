@@ -149,7 +149,8 @@
                      "id":"22001",
                      "name":"Python",
                      "type":"folder"
-                  }
+                  },
+                  
                ],
                "id":"23001",
                "name":"XOR",
@@ -435,9 +436,58 @@
                "id":"69001",
                "name":"Static Analysis Tools",
                "type":"folder"
+            },
+            {
+               "children":[
+                  {
+                     "id":"12341234",
+                     "name":"Androl4b (android security virtual machine based on ubuntu-mate)",
+                     "type":"url",
+                     "url":"https://github.com/sh4hin/Androl4b"
+                  },
+                  {
+                     "id":"12341235",
+                     "name":"Androguard (Great for reversing and refined serches)",
+                     "type":"url",
+                     "url":"https://github.com/androguard/androguard"
+                  },
+                  {
+                     "id":"12341236",
+                     "name":"Wireshark",
+                     "type":"url",
+                     "url":"https://www.wireshark.org/"
+                  },
+                  {
+                     "id":"12341237",
+                     "name":"APKtool (reverse engineering Android APK format using Java runtime environment.)",
+                     "type":"url",
+                     "url":"https://ibotpeaches.github.io/Apktool/"
+                  },
+                  {
+                     "id":"12341238",
+                     "name":"apkinspector (Not supported anymore but still works great.)",
+                     "type":"url",
+                     "url":"https://github.com/honeynet/apkinspector/"
+                  },
+                  {
+                     "id":"12341239",
+                     "name":"smali (smaliis a disassembler for the dex format used by dalvik, Android's Java VM implementation)",
+                     "type":"url",
+                     "url":"https://github.com/JesusFreke/smali"
+                  },
+                  {
+                     "id":"12341240",
+                     "name":"android-x86 (Android VM's)",
+                     "type":"url",
+                     "url":"http://www.android-x86.org/"
+                  },
+               ],
+               "id":"12341241",
+               "name":"Essential Android Tools",
+               "type":"folder"
             }
          ],
-         "id":"70001",
+         "id":"12341242",
          "name":"Android Tools",
          "type":"folder"
       },
