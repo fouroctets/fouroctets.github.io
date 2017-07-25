@@ -99,12 +99,13 @@ a:hover {
 }
 
 .footer {
-    list-style-type: none;
-    position: bottom;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-    text-align: center;
+    background-color: #333; 
+    margin-top: 50px;  
+    border: 1px solid black;
+    float: left;
+    width:99%;
+    height: 10%;
+    position: fixed;
     clear: both;
+    margin-top: 565px;
 }
