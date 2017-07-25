@@ -8,7 +8,6 @@ html {
     min-height: 100%;
 }
 #body {
-    margin: 0;
     position: relative;
 }
 #header {
@@ -94,6 +93,3 @@ a:hover {
      stroke: #ccc;
      stroke-width: 1px;
  }
-.arf {
-margin-left: 20px;
-}
