@@ -103,11 +103,11 @@ a:hover {
     text-decoration: underline;
 }
 
-footer {
-    background-color: #333; 
-    width:99%;
-    height: 5%;
-    position: fixed;
-    clear: both;
-    text-align:center;
+.footer {
+      list-style-type: none;
+      position: bottom;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      text-align:center;
 }
