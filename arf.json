@@ -149,7 +149,7 @@
                      "id":"22001",
                      "name":"Python",
                      "type":"folder"
-                  },
+                  }
                   
                ],
                "id":"23001",
@@ -480,7 +480,7 @@
                      "name":"android-x86 (Android VM's)",
                      "type":"url",
                      "url":"http://www.android-x86.org/"
-                  },
+                  }
                ],
                "id":"12341241",
                "name":"Essential Android Tools",
