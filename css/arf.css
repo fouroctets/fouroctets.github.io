@@ -76,14 +76,15 @@ a:hover {
 }
 .node {
      cursor: pointer;
+    margin-left: 20px;
  }
- .node circle {
+.node circle {
      cursor: pointer;
      fill: #ffaa00;
      stroke: steelblue;
      stroke-width: 1.5px;
  }
- .node text {
+.node text {
      font-size: 12px;
      font-weight: bold;
      fill: rgb(0, 0, 0);
