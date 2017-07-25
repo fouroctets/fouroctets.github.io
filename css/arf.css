@@ -75,7 +75,7 @@ a:hover {
 }
 .node {
      cursor: pointer;
-    margin-left: 200px;
+    margin-left: 0px;
  }
 .node circle {
      cursor: pointer;
@@ -94,5 +94,5 @@ a:hover {
      stroke-width: 1px;
  }
 .arf {
-margin-left: 90px;
+margin-left: 0px;
 }
