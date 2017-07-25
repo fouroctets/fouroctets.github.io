@@ -100,12 +100,8 @@ a:hover {
 
 .footer {
     background-color: #333; 
-    margin-top: 50px;  
-    border: 1px solid black;
-    float: left;
     width:99%;
-    height: 10%;
+    height: 5%;
     position: fixed;
     clear: both;
-    margin-top: 565px;
 }
