@@ -84,8 +84,8 @@ a:hover {
      stroke-width: 1.5px;
  }
  .node text {
-     font-size: 16px;
-     font-style: bold;
+     font-size: 14px;
+     font-weight: bold;
      fill: rgb(0, 0, 0);
  }
  path.link {
