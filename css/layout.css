@@ -598,7 +598,7 @@ footer p {
 	margin-bottom: 24px;
 }
 
-footer a, footer a:visited { color: #6C934D; }
+footer a, footer a:visited { color: orange; }
 footer a:hover, footer a:focus { color: #34393A; }
 
 footer .info { padding-right: 30px; }
