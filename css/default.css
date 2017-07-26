@@ -1,42 +1,8 @@
-/*
-=====================================================================
-*   Keep It Simple v2.0 Default Stylesheet
-*   url: styleshout.com
-*   07-12-2014
-=====================================================================
 
-TOC:
-
-a. Webfonts and Icon fonts
-b. Reset
-c. Default Styles
-   1. Basic
-   2. Typography
-   3. Links
-   4. Media
-   5. Buttons
-   6. Forms
-   d. Grid
-   e. Others
-   1. Clearing
-   2. Misc
-
-=====================================================================  */
-
-
-/* ------------------------------------------------------------------ */
-/* a. Webfonts and Icon fonts
- -------------------------------------------------------------------- */
 
 @import url("fonts.css");
 @import url("font-awesome/css/font-awesome.min.css");
 
-/* ------------------------------------------------------------------
-/* b. Reset
-      Adapted from:
-      Normalize.css - https://github.com/necolas/normalize.css/
-      HTML5 Doctor Reset - html5doctor.com/html-5-reset-stylesheet/
-/* ------------------------------------------------------------------ */
 
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -289,7 +255,7 @@ hr { border: solid #E8E8E8; border-width: 1px 0 0; clear: both; margin: 11px 0 3
 a, a:visited {
    text-decoration: none;
    outline: 0;
-   color: #93B876;
+   color: orange;
 
    -webkit-transition: color .3s ease-in-out;
    -moz-transition: color .3s ease-in-out;
@@ -351,7 +317,7 @@ ol ol li, ol ul li { }
    color: #444;
 }
 .stats-tabs li a:hover {
-   color: #93B876;
+   color: orange;
 }
 .stats-tabs li a em {
 	display: block;
@@ -363,7 +329,7 @@ ol ol li, ol ul li { }
 
 /* definition list */
 dl { margin: 12px 0; }
-dt { margin: 0; color: #93B876; }
+dt { margin: 0; color: orange; }
 dd { margin: 0 0 0 20px; }
 
 /* Lining Definition Style Markup */
@@ -435,7 +401,7 @@ dd { margin: 0 0 0 20px; }
 }
 .pagination .current,
 .pagination .current:hover {
-   background-color: #93B876;
+   background-color: orange;
    color: #fff;
 }
 .pagination .inactive,
