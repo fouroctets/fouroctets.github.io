@@ -614,7 +614,7 @@ footer ul li {
 footer ul li a,
 footer ul li a:visited { color: #34393A; }
 footer ul li a:hover,
-footer ul li a:focus { color: #6C934D; }
+footer ul li a:focus { color: orange; }
 
 /* social links */
 footer .social-links {
