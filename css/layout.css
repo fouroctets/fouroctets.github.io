@@ -1,28 +1,7 @@
-/*
-=====================================================================
-*   Keep It Simple v2.0 Layout Stylesheet
-*   url: styleshout.com
-*   07-12-2014
-=====================================================================
-
-   TOC:
-   a. Default Overrides and Common Styles
-   b. Header Styles
-   c. Content
-   d. Sidebar
-   e. Entry
-   f. Archives
-   g. Footer
-
-===================================================================== */
-
-
-/* a. Default Overrides and Common Styles
-/* ------------------------------------------------------------------ */
 
 body {
 	background: #F6F5F5;
-	border-top: 6px solid #9FCC7F;
+	border-top: 6px solid orange;
 }
 .page {
 	padding-bottom: 18px;
