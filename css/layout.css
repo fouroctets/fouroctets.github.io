@@ -612,7 +612,7 @@ footer ul li {
    line-height: 24px;
 }
 footer ul li a,
-footer ul li a:visited { color: #34393A; }
+footer ul li a:visited { color: orange; }
 footer ul li a:hover,
 footer ul li a:focus { color: orange; }
 
