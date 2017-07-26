@@ -315,7 +315,7 @@ ul#nav ul li a {
 	border-top: 1px dotted #E6E6E6;
 }
 #sidebar .link-list li a {	color: #4A5153; }
-#sidebar .link-list li a:hover {	color: #313131; /* color: #93B876; */ }
+#sidebar .link-list li a:hover {	color: #313131; /* color: orange; */ }
 
 
 /* tag cloud */
