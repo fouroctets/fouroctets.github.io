@@ -732,6 +732,164 @@
          "id":"2099389",
          "name":"Programming Language Specific",
          "type":"folder"
+      },
+      {
+        
+         "children":[
+            {
+               "id":"1231234",
+               "name":"Hopper",
+               "type":"url",
+               "url":"http://www.hopperapp.com/"
+            },
+            {
+               "id":"13543565",
+               "name":"x64dbg",
+               "type":"url",
+               "url":"http://x64dbg.com/"
+            },
+            {
+               "id":"25855896",
+               "name":"Visual DuxDebugger",
+               "type":"url",
+               "url":"http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/Visual-DuxDebugger.shtml"
+            },
+            {
+               "id":"38168227",
+               "name":"ImmunityDbg",
+               "type":"url",
+               "url":"http://www.immunityinc.com/products/debugger/"
+            },
+            {
+               "id":"50480558",
+               "name":"PE Explorer Disassembler",
+               "type":"url",
+               "url":"http://www.heaventools.com/PE_Explorer_disassembler.htm"
+            },
+            {
+               "id":"62792889",
+               "name":"Hiew",
+               "type":"url",
+               "url":"http://www.hiew.ru/"
+            },
+            {
+               "id":"75105220",
+               "name":"radare",
+               "type":"url",
+               "url":"http://radare.org/y/"
+            },
+            {
+               "id":"87417551",
+               "name":"ODA",
+               "type":"url",
+               "url":"http://www.onlinedisassembler.com/"
+            },
+            {
+               "id":"99729882",
+               "name":"W32Dasm",
+               "type":"url",
+               "url":"http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/WDASM.shtml"
+            },
+            {
+               "id":"112042213",
+               "name":"Capstone",
+               "type":"url",
+               "url":"http://www.capstone-engine.org/"
+            },
+            {
+               "id":"124354544",
+               "name":"BORG Disassembler",
+               "type":"url",
+               "url":"http://www.caesum.com/download.php"
+            },
+            {
+               "id":"136666875",
+               "name":"DSM Studio Disassembler",
+               "type":"url",
+               "url":"http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/DSM-Studio.shtml"
+            },
+            {
+               "id":"148979206",
+               "name":"Decompiler",
+               "type":"url",
+               "url":"http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/Decompiler.shtml"
+            },
+            {
+               "id":"161291537",
+               "name":"Lida - linux interactive disassembler",
+               "type":"url",
+               "url":"http://sourceforge.net/projects/lida/"
+            },
+            {
+               "id":"173603868",
+               "name":"BugDbg x64",
+               "type":"url",
+               "url":"http://www.pespin.com/"
+            },
+            {
+               "id":"185916199",
+               "name":"distorm3",
+               "type":"url",
+               "url":"http://www.ragestorm.net/distorm/"
+            },
+            {
+               "id":"198228530",
+               "name":"udis86",
+               "type":"url",
+               "url":"http://udis86.sourceforge.net/"
+            },
+            {
+               "id":"210540861",
+               "name":"Beaengine",
+               "type":"url",
+               "url":"http://www.beaengine.org/"
+            },
+            {
+               "id":"222853192",
+               "name":"C4 Decompiler",
+               "type":"url",
+               "url":"http://www.c4decompiler.com/"
+            },
+            {
+               "id":"235165523",
+               "name":"REC Studio 4 - interactive decompiler",
+               "type":"url",
+               "url":"http://www.backerstreet.com/rec/rec.htm"
+            },
+            {
+               "id":"247477854",
+               "name":"Retargetable Decompiler",
+               "type":"url",
+               "url":"http://decompiler.fit.vutbr.cz/"
+            },
+            {
+               "id":"259790185",
+               "name":"miasm",
+               "type":"url",
+               "url":"https://code.google.com/p/miasm/"
+            },
+            {
+               "id":"272102516",
+               "name":"Free Code Manipulation Library",
+               "type":"url",
+               "url":"http://fcml-lib.com/index.html"
+            },
+            {
+               "id":"284414847",
+               "name":"Intel X86 Encoder Decoder Software Library",
+               "type":"url",
+               "url":"https://software.intel.com/en-us/articles/xed-x86-encoder-decoder-software-library"
+            },
+            {
+               "id":"296727178",
+               "name":"angr",
+               "type":"url",
+               "url":"http://angr.io/"
+            }
+         ],
+         "id":"309039509",
+         "name":"Debuggers/Decompilers",
+         "type":"folder"
       }
    ],
    "id":"82001",
