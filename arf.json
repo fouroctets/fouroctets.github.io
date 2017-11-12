@@ -642,11 +642,29 @@
             }
          ],
          "id":"60512",
-         "name":"Essential Tools For Static Malware Analysis",
+         "name":"Essential Tools For Malware Analysis",
          "type":"folder"
       },
       {
          "children":[
+			{
+               "id":"15213",
+               "name":"Hybrid Analysis",
+               "type":"url",
+               "url":"hybrid-analysis.com"
+            },
+			{
+               "id":"15413",
+               "name":"Das Malwerk",
+               "type":"url",
+               "url":"http://dasmalwerk.eu/"
+            },
+			{
+               "id":"10713",
+               "name":"contagiodump",
+               "type":"url",
+               "url":"http://contagiodump.blogspot.com/"
+            },
             {
                "id":"10013",
                "name":"Tekdefense",
