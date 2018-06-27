@@ -330,6 +330,12 @@
                      "name":"OffVis (T)",
                      "type":"url",
                      "url":"http://go.microsoft.com/fwlink/?LinkID=158791"
+                  },
+				  {
+                     "id":"52069",
+                     "name":"Oletools",
+                     "type":"url",
+                     "url":"https://github.com/decalage2/oletools"
                   }
                ],
                "id":"53001",
